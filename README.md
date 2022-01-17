@@ -6,7 +6,7 @@ About
     Languages : Python, C++, JavaScript
     Hobbies : Computer Games, Drums, Bass and Powerlifting
     Fact : Write tests before you code! 
-    Contact : [lassijjk](lassi.kirvesmaki@tuni.fi)
+    Contact : lassi.kirvesmaki@tuni.fi
     
 Other tools
     
