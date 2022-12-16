@@ -2,8 +2,8 @@
 
 About
 
-    Learning : Angular, C#
-    Languages : Python, C++, JavaScript, SQL
+    Learning : Angular, AngularJS, C#
+    Technologies : Python, C++, JavaScript, SQL, AngularJS 
     Hobbies : Computer Games, Drums, Bass and Powerlifting
     Fact : Write tests before you code! 
     Contact : lassi.kirvesmaki@tuni.fi
